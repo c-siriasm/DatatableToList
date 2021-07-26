@@ -1,0 +1,10 @@
+C:\Users\Personal\source\repos\ConvertDataTableToList\ConvertDataTableToList\obj\Debug\ConvertDataTableToList.vbprojAssemblyReference.cache
+C:\Users\Personal\source\repos\ConvertDataTableToList\ConvertDataTableToList\obj\Debug\ConvertDataTableToList.Resources.resources
+C:\Users\Personal\source\repos\ConvertDataTableToList\ConvertDataTableToList\obj\Debug\ConvertDataTableToList.vbproj.GenerateResource.cache
+C:\Users\Personal\source\repos\ConvertDataTableToList\ConvertDataTableToList\obj\Debug\ConvertDataTableToList.vbproj.CoreCompileInputs.cache
+C:\Users\Personal\source\repos\ConvertDataTableToList\ConvertDataTableToList\bin\Debug\ConvertDataTableToList.dll
+C:\Users\Personal\source\repos\ConvertDataTableToList\ConvertDataTableToList\bin\Debug\ConvertDataTableToList.pdb
+C:\Users\Personal\source\repos\ConvertDataTableToList\ConvertDataTableToList\bin\Debug\ConvertDataTableToList.xml
+C:\Users\Personal\source\repos\ConvertDataTableToList\ConvertDataTableToList\obj\Debug\ConvertDataTableToList.dll
+C:\Users\Personal\source\repos\ConvertDataTableToList\ConvertDataTableToList\obj\Debug\ConvertDataTableToList.xml
+C:\Users\Personal\source\repos\ConvertDataTableToList\ConvertDataTableToList\obj\Debug\ConvertDataTableToList.pdb
